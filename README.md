@@ -1,2 +1,2 @@
-# jvs
-James Vending Solutions Production Site
+# james-vending-solutions.github.io
+James Vending Solutions Website
